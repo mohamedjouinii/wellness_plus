@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#72E288</color>
+    <color name="spinnercolor">#a1d2ba</color>
+    <color name="card">#d5f4ee</color>
+    <color name="bleu">#0e6abc</color>
+    <color name="marine">#031b30</color>
+    <color name="gray">#4f5252</color>
+    <color name="blue_light">#bedbe4</color>
+
+</resources>

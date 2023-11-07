@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PDM_wellnessPLus" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PDM_wellnessPLus" parent="Base.Theme.PDM_wellnessPLus" />
+
+        <style name="SpinnerTextStyle">
+            <item name="android:textSize">16sp</item>
+            <item name="android:textColor">@color/black</item>
+            <!-- Autres attributs de style du texte ici -->
+        </style>
+</resources>

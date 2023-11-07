@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/searchnew"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:icon="@drawable/setting"
+        android:title="Sort"
+        app:showAsAction="always">
+
+        <menu>
+
+            <item
+                android:id="@+id/filter_tous"
+                android:title="types differents" />
+
+            <item
+                android:id="@+id/filtre_antiacneiques"
+                android:title="antiacneiques" />
+            <item
+                android:id="@+id/filtre_dermatologique"
+                android:title="dermatologique" />
+
+
+        </menu>
+
+    </item>
+
+</menu>
